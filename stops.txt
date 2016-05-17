@@ -5,5 +5,5 @@
 "S_ALAMKT_2","Alabang Town Center Bus Terminal","East of Alabang Town Center","14.424089","121.031716"
 "S_NEDORT_1","SM North EDSA Bus Terminal","","14.656103","121.029239"
 "S_NEDORT_2","SM Megamall Bus Terminal","","14.584806","121.056179"
-"S_NEDMKT_1","Glorietta 5 (North Street)","","14.551507","121.027096"
-"S_NEDMKT_2","Trinoma (EDSA)","","14.651404","121.033242"
+"S_NEDMKT_1","Trinoma (EDSA)","","14.651404","121.033242"
+"S_NEDMKT_2","Glorietta 5 (North Street)","","14.551507","121.027096"
