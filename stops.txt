@@ -7,5 +7,5 @@
 "S_NEDORT_2","SM Megamall Bus Terminal","","14.584806","121.056179"
 "S_NEDMKT_1","Trinoma (EDSA)","","14.651404","121.033242"
 "S_NEDMKT_2","Glorietta 5 (North Street)","","14.551507","121.027096"
-"S_LINGKODPINOY_01","Park Square Makati Car Park",,"14.548948","121.02573699999994"
-"S_LINGKODPINOY_02","Robinson's Novaliches Car Park 2",,"14.7353056","121.0563648"
+"S_FRVMKT_01","Park Square Makati Car Park",,"14.548948","121.02573699999994"
+"S_FRVMKT_02","Robinson's Novaliches Car Park 2",,"14.7353056","121.0563648"
