@@ -2,3 +2,4 @@
 "ROBINSONS","HM Transport Inc. and Robinsons Malls","https://www.facebook.com/RobinsonsMalls/","Asia/Manila"
 "FROEHLICH","Froehlich Tours","https://www.facebook.com/HolidayLand/","Asia/Manila"
 "RRCG","RRCG Transport","https://www.facebook.com/rrcgbustransport/","Asia/Manila"
+"LINGKODPINOY","Lingkod Pinoy Bus Liner, Inc.","https://www.facebook.com/RobinsonsP2P/","Asia/Manila"
