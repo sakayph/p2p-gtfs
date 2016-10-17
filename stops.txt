@@ -7,3 +7,5 @@
 "S_NEDORT_2","SM Megamall Bus Terminal","","14.584806","121.056179"
 "S_NEDMKT_1","Trinoma (EDSA)","","14.651404","121.033242"
 "S_NEDMKT_2","Glorietta 5 (North Street)","","14.551507","121.027096"
+"S_CENMKT_01","Centris Station",,"14.6414854","121.0396599"
+"S_CENMKT_02","Glorietta 5 P2P Froehlich Bus Terminal",,"14.5514816","121.0271072"
