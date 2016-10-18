@@ -9,3 +9,5 @@
 "S_NEDMKT_2","Glorietta 5 (North Street)","","14.551507","121.027096"
 "S_CENMKT_01","Centris Station",,"14.6414854","121.0396599"
 "S_CENMKT_02","Glorietta 5 P2P Froehlich Bus Terminal",,"14.5514816","121.0271072"
+"S_FRVMKT_01","Park Square Makati Car Park",,"14.548948","121.02573699999994"
+"S_FRVMKT_02","Robinson's Novaliches Car Park 2",,"14.7353056","121.0563648"
