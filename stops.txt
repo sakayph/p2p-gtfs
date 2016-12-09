@@ -1,5 +1,5 @@
 "stop_id","stop_name","stop_desc","stop_lat","stop_lon"
-"S_ORTMKT_1","Park Square (Theater Dr)","In front of Dusit Thani","14.548948","121.025737"
+"S_ORTMKT_1","Glorietta 3, Parkway Drive","","14.55229","121.02508"
 "S_ORTMKT_2","Robinson's Galleria","Underneath the overpass beside EDSA Shrine","14.592020","121.058476"
 "S_ALAMKT_1","Greenbelt 1 (Legazpi Street)","Near Rita Optical and Andok's","14.553626","121.020953"
 "S_ALAMKT_2","Alabang Town Center Bus Terminal","East of Alabang Town Center","14.424089","121.031716"
@@ -9,5 +9,5 @@
 "S_NEDMKT_2","Glorietta 5 (North Street)","","14.551507","121.027096"
 "S_CENMKT_01","Centris Station",,"14.6414854","121.0396599"
 "S_CENMKT_02","Glorietta 5 P2P Froehlich Bus Terminal",,"14.5514816","121.0271072"
-"S_FRVMKT_01","Park Square Makati Car Park",,"14.548948","121.02573699999994"
+"S_FRVMKT_01","Glorietta 3, Parkway Drive","","14.55229","121.02508"
 "S_FRVMKT_02","Robinson's Novaliches Car Park 2",,"14.7353056","121.0563648"
