@@ -12,6 +12,7 @@
 "S_NEDORT_2","SM Megamall Bus Terminal","","14.584806","121.056179"
 "S_NEDMKT_1","Trinoma (EDSA)","","14.651404","121.033242"
 "S_NEDMKT_2","Glorietta 5 (North Street)","","14.551507","121.027096"
+"S_NEDMKT_3","SM North EDSA Bus Terminal","","14.656103","121.029239"
 "S_FRVMKT_01","Glorietta 3, Parkway Drive","","14.55229","121.02508"
 "S_FRVMKT_02","Robinson's Novaliches Car Park 2",,"14.7353056","121.0563648"
 "S_CENMKT_01","Centris Station",,"14.6414854","121.0396599"
