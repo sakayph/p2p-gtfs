@@ -1,0 +1,7 @@
+"fare_id","price","currency_type","payment_method","transfers"
+"F_ORTMKT_1","30","PHP","1","0"
+"F_NEDMKT_1","55","PHP","1","0"
+"F_NEDORT_1","40","PHP","1","0"
+"F_ALAMKT_1","80","PHP","1","0"
+"F_ALAMKT_2","80","PHP","1","0"
+"F_FRVMKT_1","100","PHP","1","0"
