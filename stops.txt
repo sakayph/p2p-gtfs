@@ -15,3 +15,5 @@
 "S_FRVMKT_02","Robinson's Novaliches Car Park 2",,"14.7353056","121.0563648"
 "S_BCRALA_1","Starmall Alabang","","14.4173405","121.0457216"
 "S_BCRALA_2","Vista Mall Daang Hari, Bacoor","","14.3856463","120.9782186"
+"S_DASALA_1","Starmall Alabang","","14.4173405","121.0457216"
+"S_DASALA_2","Central Mall Dasmariñas","","14.3496441","120.9377978"

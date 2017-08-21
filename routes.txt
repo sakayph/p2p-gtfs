@@ -7,3 +7,4 @@
 "P2P_ALAFRT_1","ROBINSONS","P2P Bus Alabang Town Center to Market Market","Alabang Town Center to Market Market","3"
 "P2P_FRVMKT_1","LINGKODPINOY","P2P Bus Fairview to Makati","Robinson's Novaliches Car Park 2 (Fairview) to Glorietta 3 (Makati)","3"
 "P2P_BCRALA_1","METROEXPRESS","P2P Bus Vista Mall - Starmall Alabang","Vista Mall Daang Hari, Bacoor - Starmall Alabang","3"
+"P2P_DASALA_1","METROEXPRESS","P2P Central Mall Dasmariñas - Starmall Alabang","Central Mall Dasmariñas - Starmall Alabang","3"
