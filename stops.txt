@@ -13,3 +13,5 @@
 "S_NEDMKT_2","Glorietta 5 (North Street)","","14.551507","121.027096"
 "S_FRVMKT_01","Glorietta 3, Parkway Drive","","14.55229","121.02508"
 "S_FRVMKT_02","Robinson's Novaliches Car Park 2",,"14.7353056","121.0563648"
+"S_BCRALA_1","Starmall Alabang","","14.4173405","121.0457216"
+"S_BCRALA_2","Vista Mall Daang Hari, Bacoor","","14.3856463","120.9782186"

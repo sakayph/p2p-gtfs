@@ -6,3 +6,4 @@
 "P2P_ALAMKT_2","RRCG","P2P Bus Alabang to Makati","Ayala South Park (Alabang) to Greenbelt 5 (Makati)","3"
 "P2P_ALAFRT_1","ROBINSONS","P2P Bus Alabang Town Center to Market Market","Alabang Town Center to Market Market","3"
 "P2P_FRVMKT_1","LINGKODPINOY","P2P Bus Fairview to Makati","Robinson's Novaliches Car Park 2 (Fairview) to Glorietta 3 (Makati)","3"
+"P2P_BCRALA_1","METROEXPRESS","P2P Bus Vista Mall - Starmall Alabang","Vista Mall Daang Hari, Bacoor - Starmall Alabang","3"
