@@ -4,3 +4,4 @@
 "RRCG","RRCG Transport","https://www.facebook.com/rrcgbustransport/","Asia/Manila"
 "LINGKODPINOY","Lingkod Pinoy Bus Liner, Inc.","https://www.facebook.com/RobinsonsP2P/","Asia/Manila"
 "METROEXPRESS","MetroExpress","https://www.facebook.com/MetroExpressP2PBusService/","Asia/Manila"
+"TASTRANS","Tas Trans","https://www.facebook.com/TAS-Trans-Corp-Unofficial-681205822017823/","Asia/Manila"

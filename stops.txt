@@ -17,3 +17,8 @@
 "S_BCRALA_2","Vista Mall Daang Hari, Bacoor","","14.3856463","120.9782186"
 "S_DASALA_1","Starmall Alabang","","14.4173405","121.0457216"
 "S_DASALA_2","Central Mall Dasmariñas","","14.3496441","120.9377978"
+"S_NVLMKT_1","Nuvali Transport Terminal","","14.236912","121.055262"
+"S_NVLMKT_2","Landmark Makati","","14.552364","121.023355"
+"S_NVLMKT_3","Ayala Avenue cor. Paseo de Roxas","","14.557513","121.020357"
+"S_NVLMKT_4","Circuit Lane","","14.575470","121.017135"
+"S_NVLMKT_5","Glorietta 2 (Palm Drive)","","14.550619","121.024661"
